@@ -1,0 +1,6 @@
+Minimo 2 paginas
+parrafo de 10 lineas
+Realizar un articulo - de qeu se trata el robot como funciona
+tema de control del nao
+
+source env/bin/activate
